@@ -1,0 +1,6 @@
+/* components/switch.module.css */
+.themeSwitch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
