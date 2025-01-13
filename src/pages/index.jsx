@@ -4,7 +4,7 @@ import { Row } from 'react-bootstrap';
 import NavBar from '../../components/navbar';
 import ComicSlider from '../../components/comicslider';
 import ThemeSwitch from '../../components/switch';
-import { comics } from "@/pages/comics";
+import { comics } from "../../utils/comics";
 
 export default function App() {
   

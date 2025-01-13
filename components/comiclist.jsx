@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import ComicCard from "./comiccard";
-import { comics } from "@/pages/comics";
+import { comics } from "../utils/comics";
 import styles from "./component.module.css"
 import { Col, Container, Row } from "react-bootstrap";
 
